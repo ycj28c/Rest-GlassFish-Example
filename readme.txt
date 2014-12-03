@@ -1,0 +1,1 @@
+可以运行xml，json和text格式的初始web service项目

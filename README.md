@@ -10,5 +10,7 @@ run project as glassfish web container use eclipse
 # API
 
 /test/getText
+
 /test/getXml
+
 /test/getJson

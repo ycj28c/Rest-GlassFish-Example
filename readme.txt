@@ -1,3 +1,14 @@
-可以运行xml，json和text格式的初始web service项目
+The rest web example which can get xml, json, text object.
+Simple example, since it is first attempt, it take a while to figure out
 
-比较简单，但是可以运行的例子，第一次摸索也是花了相当时间
+
+# How to run
+require glassfish > 4
+
+run project as glassfish web container use eclipse 
+
+# API
+
+/test/getText
+/test/getXml
+/test/getJson

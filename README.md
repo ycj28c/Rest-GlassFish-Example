@@ -1,4 +1,5 @@
 The rest web example which can get xml, json, text object.
+
 Simple example, since it is first attempt, it take a while to figure out
 
 
